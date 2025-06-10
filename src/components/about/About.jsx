@@ -13,7 +13,7 @@ const About = () => {
         <div className="container about__container">
           <div className="about__me">
             <div className="about__me__image">
-              <img src={me} alt="Denzel" />
+              <img src={me} alt="Senku" />
             </div>
           </div>
           <div className="about__me__content">
@@ -35,9 +35,8 @@ const About = () => {
               </article>
             </div>
             <p>
-              To begin with, I am a young software engineer currently in training at the Faculty of
-              Engineering and Technology (FET) of the University of Buea . I am always open to new opportunities which can help me gain more experience. From July 2021 till date, I am constantly learning new technologies such as MERN stack.
-              I aspire to be an innovative and steadfast engineer by the time I graduate and be very much qualified. I am a holder of the GCE Advanced Level, GCE Ordinary Level. I am fluent both in the arts of written and spoken in the language of English and French as well.
+              To begin with, I am a young software engineer currently in training at the **insert_uni** . I am always open to new opportunities which can help me gain more experience. From July 2021 till date, I am constantly learning new technologies such as MERN stack.
+              I aspire to be an innovative and steadfast engineer by the time I graduate and be very much qualified. I am a holder of **inset_diplomas**. I am fluent both in the arts of written and spoken in the language of **inset_languages** as well.
             </p>
             <a href="#contact" className="btn btn-primary">
               Let's talk
