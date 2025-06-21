@@ -30,21 +30,21 @@ const Contact = () => {
                         <MdOutlineEmail className='contact__option__icon'/>
                         <h4>Email</h4>
                         <h5>suhdenzo04@gmail.com</h5>
-                        <a href='mailto:donden5000@gmail.com' target='_blank'>Send a message</a>
+                        <a href='#' target='_blank'>Send a message</a>
                     </article>
 
                     <article className='contact__option'>
                         <AiOutlineLinkedin className='contact__option__icon'/>
                         <h4>Linkedin</h4>
                         <h5>Profile</h5>
-                        <a href='https://www.linkedin.com/in/suhbisi-denzel-nsiela-78991926a/' target='_blank'>Tap me on LinkedIn</a>
+                        <a href='https://www.linkedin.com/' target='_blank'>Tap me on LinkedIn</a>
                     </article>
 
                     <article className='contact__option'>
                         <BsWhatsapp className='contact__option__icon'/>
                         <h4>Whatsapp</h4>
                         <h5>Direct message</h5>
-                        <a href='https://web.whatsapp.com/send?phone=+237697571748' target='_blank'>Whatsapp me</a>
+                        <a href='https://www.whatsapp.com/' target='_blank'>Whatsapp me</a>
                     </article>
                 </div>
 
